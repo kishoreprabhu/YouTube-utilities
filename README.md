@@ -30,7 +30,7 @@ var images = utility.getYoutubeImage(url);
 
 # API
 ```javascript
-getYoutubeId(uuid);
+getYoutubeId(url);
 
 getVideoEmbedLink(url);
 
